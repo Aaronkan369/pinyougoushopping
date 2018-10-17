@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /register.html HTTP/1.1" 200 7781 http-bio-9102-exec-1 107
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /css/pages-register.css HTTP/1.1" 200 1194 http-bio-9102-exec-2 75
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /plugins/angularjs/angular.min.js HTTP/1.1" 200 129177 http-bio-9102-exec-4 113
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /css/webbase.css HTTP/1.1" 200 254102 http-bio-9102-exec-3 128
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /js/base.js HTTP/1.1" 200 38 http-bio-9102-exec-6 52
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /js/controller/sellerController.js HTTP/1.1" 200 458 http-bio-9102-exec-8 51
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /js/service/sellerService.js HTTP/1.1" 200 833 http-bio-9102-exec-5 63
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /js/controller/baseController.js HTTP/1.1" 200 936 http-bio-9102-exec-7 61
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /js/plugins/jquery.easing/jquery.easing.min.js HTTP/1.1" 200 5643 http-bio-9102-exec-10 87
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /js/plugins/jquery/jquery.min.js HTTP/1.1" 200 95974 http-bio-9102-exec-9 102
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /js/plugins/jquery-placeholder/jquery.placeholder.min.js HTTP/1.1" 200 2162 http-bio-9102-exec-6 63
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /js/plugins/sui/sui.min.js HTTP/1.1" 200 105315 http-bio-9102-exec-8 68
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /js/pages/register.js HTTP/1.1" 200 58 http-bio-9102-exec-4 35
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /img/icons.png HTTP/1.1" 200 37691 http-bio-9102-exec-9 129
+0:0:0:0:0:0:0:1 - - [13/Oct/2018:13:28:53 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9102-exec-9 4
